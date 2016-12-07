@@ -1,4 +1,4 @@
-<course cert_html_view_enabled="true" display_name="Computer Graphics" language="en" start="&quot;2030-01-01T00:00:00+00:00&quot;">
+<course advertised_start="Anytime" cert_html_view_enabled="true" course_image="IIITH-Computer Graphics.jpg" display_name="Computer Graphics" instructor_info="{&quot;instructors&quot;: []}" language="en" learning_info="[]" start="&quot;2016-09-29T00:00:00+00:00&quot;">
   <chapter url_name="24aaccb2c3d94b6391f7f0385aeb5cc1"/>
   <chapter url_name="fb4166758dd944dab2b166ad3d8a5ebd"/>
   <chapter url_name="4498447f34d946969a40b3dd5ed841b9"/>
@@ -11,5 +11,6 @@
   <chapter url_name="c1749700094e48378516ebb8ceb1574e"/>
   <chapter url_name="307ea2402ce44fe29b905ebc5e1bcc0d"/>
   <chapter url_name="3030930ed6064036bf2677f29b8a2c57"/>
+  <chapter url_name="df44d93ddd4c417aaedf3d0b20f25203"/>
   <wiki slug="IIITH.cse18.Any"/>
 </course>

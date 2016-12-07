@@ -1,5 +1,5 @@
 <ol start="1" type="1">
-<li>Please download the appropriate Virtual Lab Graphics package below. <br /> <b><a href="http://cse18-iiith.vlabs.ac.in/VirtualLabGraphics.zip">Download</a></b> </li>
+<li>Please download the appropriate Virtual Lab Graphics package below. <br /> <b><a href="http://cse18-iiith.vlabs.ac.in/VirtualLabGraphics.zip">Download</a></b></li>
 <li>Save the <b>VirtualLabGraphics.zip</b> file and double click it to extract.</li>
 <li>Run the Start.jar in the extracted folder (VirtualLabGraphics folder) to start the experiments.
 <ul>
@@ -14,3 +14,22 @@
 </ul>
 </li>
 </ol>
+<script>// <![CDATA[
+// ****** ALSO MODIFY THE URLS GIVEN ABOVE **************
+// ********MODIFY THIS SECTION **************************
+
+var lab_id = "CSE18"; 
+var exp_name = "Points and Co-ordinate Systems"
+var lab_name = "Computer Graphics Lab"
+var user_id = "%%USER_ID%%"; //get the User ID as a string  
+var exp_id = "E99819"
+
+var server_url = "http://analytics-api.vlabs.ac.in:4000/"
+
+var xhttp = new XMLHttpRequest();
+var urlstr = server_url + user_id + "," + lab_id + "," + lab_name + "," + exp_id + "," + exp_name
+xhttp.open("GET", urlstr, true);
+xhttp.send();
+
+// *******DO NOT MODIFY THIS SECTION AGAIN ************
+// ]]></script>
