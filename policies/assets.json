@@ -1,0 +1,26 @@
+{
+    "IIITH-Computer_Graphics.jpg": {
+        "contentType": "image/jpeg", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CSE18", 
+            "name": "IIITH-Computer_Graphics.jpg", 
+            "org": "IIIT-Hyderabad", 
+            "revision": null, 
+            "run": "Anytime", 
+            "tag": "c4x"
+        }, 
+        "displayname": "IIITH-Computer Graphics.jpg", 
+        "filename": "asset-v1:IIIT-Hyderabad+CSE18+Anytime+type@asset+block@IIITH-Computer_Graphics.jpg", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "IIIT-Hyderabad", 
+            "CSE18", 
+            "thumbnail", 
+            "IIITH-Computer_Graphics.jpg", 
+            null
+        ]
+    }
+}
